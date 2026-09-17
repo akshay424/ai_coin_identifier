@@ -1,0 +1,1858 @@
+{
+  "version": "2.0",
+  "note": "The first 50 catalog records. Coin images are AI-generated realistic illustrations for app use and are not authenticated specimen photographs.",
+  "count": 50,
+  "coins": [
+    {
+      "id": 1,
+      "day": 1,
+      "name": "Australia 1 dollar",
+      "country": "Australia",
+      "country_code": "AUS",
+      "denomination": "1 dollar",
+      "currency": "AUD",
+      "year": 2006,
+      "value_range": {
+        "min": 35,
+        "max": 68,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 170194721,
+      "composition": "Aluminium-Bronze",
+      "diameter_mm": 25.0,
+      "weight_g": 9.0,
+      "thickness_mm": 3.0,
+      "edge": "Interrupted milled",
+      "shape": "Round",
+      "designer": "Ian Rank-Broadley / Stuart Devlin",
+      "krause_number": "KM#3331",
+      "obverse": {
+        "description": "Portrait of Queen Elizabeth II.",
+        "lettering": "ELIZABETH II AUSTRALIA"
+      },
+      "reverse": {
+        "description": "Five kangaroos.",
+        "lettering": "1 DOLLAR"
+      },
+      "images": {
+        "obverse": "001_obverse.webp",
+        "reverse": "001_reverse.webp"
+      }
+    },
+    {
+      "id": 2,
+      "day": 2,
+      "name": "Australia 10 cents",
+      "country": "Australia",
+      "country_code": "AUS",
+      "denomination": "10 cents",
+      "currency": "AUD",
+      "year": 2006,
+      "value_range": {
+        "min": 35,
+        "max": 82,
+        "currency": "INR"
+      },
+      "rarity": "Common",
+      "mintage": 42847301,
+      "composition": "Copper-Nickel",
+      "diameter_mm": 23.6,
+      "weight_g": 5.65,
+      "thickness_mm": 2.0,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "Ian Rank-Broadley / Stuart Devlin",
+      "krause_number": "KM#428",
+      "obverse": {
+        "description": "Portrait of Queen Elizabeth II.",
+        "lettering": "ELIZABETH II AUSTRALIA"
+      },
+      "reverse": {
+        "description": "Superb lyrebird.",
+        "lettering": "10 CENTS"
+      },
+      "images": {
+        "obverse": "002_obverse.webp",
+        "reverse": "002_reverse.webp"
+      }
+    },
+    {
+      "id": 3,
+      "day": 3,
+      "name": "Australia 20 cents",
+      "country": "Australia",
+      "country_code": "AUS",
+      "denomination": "20 cents",
+      "currency": "AUD",
+      "year": 2006,
+      "value_range": {
+        "min": 35,
+        "max": 83,
+        "currency": "INR"
+      },
+      "rarity": "Common",
+      "mintage": 81614373,
+      "composition": "Copper-Nickel",
+      "diameter_mm": 28.65,
+      "weight_g": 11.3,
+      "thickness_mm": 2.5,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "Ian Rank-Broadley / Stuart Devlin",
+      "krause_number": "KM#1105",
+      "obverse": {
+        "description": "Portrait of Queen Elizabeth II.",
+        "lettering": "ELIZABETH II AUSTRALIA"
+      },
+      "reverse": {
+        "description": "Platypus.",
+        "lettering": "20 CENTS"
+      },
+      "images": {
+        "obverse": "003_obverse.webp",
+        "reverse": "003_reverse.webp"
+      }
+    },
+    {
+      "id": 4,
+      "day": 4,
+      "name": "Australia 5 cents",
+      "country": "Australia",
+      "country_code": "AUS",
+      "denomination": "5 cents",
+      "currency": "AUD",
+      "year": 2006,
+      "value_range": {
+        "min": 35,
+        "max": 57,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 108042813,
+      "composition": "Copper-Nickel",
+      "diameter_mm": 19.41,
+      "weight_g": 2.83,
+      "thickness_mm": 1.3,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "Ian Rank-Broadley / Stuart Devlin",
+      "krause_number": "KM#2123",
+      "obverse": {
+        "description": "Portrait of Queen Elizabeth II.",
+        "lettering": "ELIZABETH II AUSTRALIA"
+      },
+      "reverse": {
+        "description": "Echidna.",
+        "lettering": "5 CENTS"
+      },
+      "images": {
+        "obverse": "004_obverse.webp",
+        "reverse": "004_reverse.webp"
+      }
+    },
+    {
+      "id": 5,
+      "day": 5,
+      "name": "Australia 50 cents",
+      "country": "Australia",
+      "country_code": "AUS",
+      "denomination": "50 cents",
+      "currency": "AUD",
+      "year": 2006,
+      "value_range": {
+        "min": 35,
+        "max": 81,
+        "currency": "INR"
+      },
+      "rarity": "Common",
+      "mintage": 63700548,
+      "composition": "Copper-Nickel",
+      "diameter_mm": 31.65,
+      "weight_g": 15.55,
+      "thickness_mm": 2.0,
+      "edge": "Plain (12-sided)",
+      "shape": "Dodecagonal",
+      "designer": "Ian Rank-Broadley / Stuart Devlin",
+      "krause_number": "KM#1747",
+      "obverse": {
+        "description": "Portrait of Queen Elizabeth II.",
+        "lettering": "ELIZABETH II AUSTRALIA"
+      },
+      "reverse": {
+        "description": "Australian coat of arms.",
+        "lettering": "50 CENTS"
+      },
+      "images": {
+        "obverse": "005_obverse.webp",
+        "reverse": "005_reverse.webp"
+      }
+    },
+    {
+      "id": 6,
+      "day": 6,
+      "name": "Brazil 1 real",
+      "country": "Brazil",
+      "country_code": "BRA",
+      "denomination": "1 real",
+      "currency": "BRL",
+      "year": 2006,
+      "value_range": {
+        "min": 24,
+        "max": 89,
+        "currency": "INR"
+      },
+      "rarity": "Uncommon",
+      "mintage": 12445377,
+      "composition": "Bimetal (Stainless Steel / Brass)",
+      "diameter_mm": 27.0,
+      "weight_g": 7.0,
+      "thickness_mm": 1.8,
+      "edge": "Reeded and smooth",
+      "shape": "Round",
+      "designer": "",
+      "krause_number": "KM#3906",
+      "obverse": {
+        "description": "Effigy of the Republic.",
+        "lettering": "BRASIL"
+      },
+      "reverse": {
+        "description": "Value.",
+        "lettering": "1 REAL"
+      },
+      "images": {
+        "obverse": "006_obverse.webp",
+        "reverse": "006_reverse.webp"
+      }
+    },
+    {
+      "id": 7,
+      "day": 7,
+      "name": "Canada 1 dollar (Loonie)",
+      "country": "Canada",
+      "country_code": "CAN",
+      "denomination": "1 dollar",
+      "currency": "CAD",
+      "year": 2006,
+      "value_range": {
+        "min": 32,
+        "max": 52,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 235731708,
+      "composition": "Brass-plated Steel",
+      "diameter_mm": 26.5,
+      "weight_g": 6.27,
+      "thickness_mm": 1.95,
+      "edge": "Plain (11-sided)",
+      "shape": "Hendecagonal",
+      "designer": "Susanna Blunt / Robert-Ralph Carmichael",
+      "krause_number": "KM#2964",
+      "obverse": {
+        "description": "Portrait of Queen Elizabeth II.",
+        "lettering": "ELIZABETH II D G REGINA"
+      },
+      "reverse": {
+        "description": "Common loon.",
+        "lettering": "CANADA DOLLAR"
+      },
+      "images": {
+        "obverse": "007_obverse.webp",
+        "reverse": "007_reverse.webp"
+      }
+    },
+    {
+      "id": 8,
+      "day": 8,
+      "name": "Canada 10 cents",
+      "country": "Canada",
+      "country_code": "CAN",
+      "denomination": "10 cents",
+      "currency": "CAD",
+      "year": 2006,
+      "value_range": {
+        "min": 32,
+        "max": 62,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 249461760,
+      "composition": "Nickel-plated Steel",
+      "diameter_mm": 18.03,
+      "weight_g": 1.75,
+      "thickness_mm": 1.22,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "Susanna Blunt / Emanuel Hahn",
+      "krause_number": "KM#3132",
+      "obverse": {
+        "description": "Portrait of Queen Elizabeth II.",
+        "lettering": "ELIZABETH II D G REGINA"
+      },
+      "reverse": {
+        "description": "Bluenose schooner.",
+        "lettering": "CANADA 10 CENTS"
+      },
+      "images": {
+        "obverse": "008_obverse.webp",
+        "reverse": "008_reverse.webp"
+      }
+    },
+    {
+      "id": 9,
+      "day": 9,
+      "name": "Canada 25 cents",
+      "country": "Canada",
+      "country_code": "CAN",
+      "denomination": "25 cents",
+      "currency": "CAD",
+      "year": 2006,
+      "value_range": {
+        "min": 32,
+        "max": 78,
+        "currency": "INR"
+      },
+      "rarity": "Common",
+      "mintage": 25044141,
+      "composition": "Nickel-plated Steel",
+      "diameter_mm": 23.88,
+      "weight_g": 4.4,
+      "thickness_mm": 1.58,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "Susanna Blunt",
+      "krause_number": "KM#2675",
+      "obverse": {
+        "description": "Portrait of Queen Elizabeth II.",
+        "lettering": "ELIZABETH II D G REGINA"
+      },
+      "reverse": {
+        "description": "Caribou.",
+        "lettering": "CANADA 25 CENTS"
+      },
+      "images": {
+        "obverse": "009_obverse.webp",
+        "reverse": "009_reverse.webp"
+      }
+    },
+    {
+      "id": 10,
+      "day": 10,
+      "name": "Canada 5 cents",
+      "country": "Canada",
+      "country_code": "CAN",
+      "denomination": "5 cents",
+      "currency": "CAD",
+      "year": 2006,
+      "value_range": {
+        "min": 32,
+        "max": 61,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 202024494,
+      "composition": "Nickel-plated Steel",
+      "diameter_mm": 21.2,
+      "weight_g": 3.95,
+      "thickness_mm": 1.76,
+      "edge": "Plain",
+      "shape": "Round",
+      "designer": "Susanna Blunt / George E. Kruger Gray",
+      "krause_number": "KM#2077",
+      "obverse": {
+        "description": "Portrait of Queen Elizabeth II.",
+        "lettering": "ELIZABETH II D G REGINA"
+      },
+      "reverse": {
+        "description": "Beaver on a rock.",
+        "lettering": "CANADA 5 CENTS"
+      },
+      "images": {
+        "obverse": "010_obverse.webp",
+        "reverse": "010_reverse.webp"
+      }
+    },
+    {
+      "id": 11,
+      "day": 11,
+      "name": "China 1 yuan",
+      "country": "China",
+      "country_code": "CHN",
+      "denomination": "1 yuan",
+      "currency": "CNY",
+      "year": 2006,
+      "value_range": {
+        "min": 19,
+        "max": 35,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 189189413,
+      "composition": "Nickel-plated Steel",
+      "diameter_mm": 25.0,
+      "weight_g": 6.1,
+      "thickness_mm": 1.85,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "",
+      "krause_number": "KM#664",
+      "obverse": {
+        "description": "Chrysanthemum flower.",
+        "lettering": "中国人民银行"
+      },
+      "reverse": {
+        "description": "Value.",
+        "lettering": "1"
+      },
+      "images": {
+        "obverse": "011_obverse.webp",
+        "reverse": "011_reverse.webp"
+      }
+    },
+    {
+      "id": 12,
+      "day": 12,
+      "name": "Euro 1 cent",
+      "country": "Eurozone",
+      "country_code": "EUR",
+      "denomination": "1 euro cent",
+      "currency": "EUR",
+      "year": 2006,
+      "value_range": {
+        "min": 45,
+        "max": 86,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 146966225,
+      "composition": "Copper-plated Steel",
+      "diameter_mm": 16.25,
+      "weight_g": 2.3,
+      "thickness_mm": 1.67,
+      "edge": "Smooth",
+      "shape": "Round",
+      "designer": "Luc Luycx",
+      "krause_number": "KM#1940",
+      "obverse": {
+        "description": "National side (varies).",
+        "lettering": ""
+      },
+      "reverse": {
+        "description": "Globe showing Europe.",
+        "lettering": "1 EURO CENT"
+      },
+      "images": {
+        "obverse": "012_obverse.webp",
+        "reverse": "012_reverse.webp"
+      }
+    },
+    {
+      "id": 13,
+      "day": 13,
+      "name": "Euro 2 cent",
+      "country": "Eurozone",
+      "country_code": "EUR",
+      "denomination": "2 euro cent",
+      "currency": "EUR",
+      "year": 2006,
+      "value_range": {
+        "min": 45,
+        "max": 124,
+        "currency": "INR"
+      },
+      "rarity": "Common",
+      "mintage": 23148317,
+      "composition": "Copper-plated Steel",
+      "diameter_mm": 18.75,
+      "weight_g": 3.06,
+      "thickness_mm": 1.67,
+      "edge": "Smooth with a groove",
+      "shape": "Round",
+      "designer": "Luc Luycx",
+      "krause_number": "KM#874",
+      "obverse": {
+        "description": "National side (varies).",
+        "lettering": ""
+      },
+      "reverse": {
+        "description": "Globe showing Europe.",
+        "lettering": "2 EURO CENT"
+      },
+      "images": {
+        "obverse": "013_obverse.webp",
+        "reverse": "013_reverse.webp"
+      }
+    },
+    {
+      "id": 14,
+      "day": 14,
+      "name": "Euro 5 cent",
+      "country": "Eurozone",
+      "country_code": "EUR",
+      "denomination": "5 euro cent",
+      "currency": "EUR",
+      "year": 2006,
+      "value_range": {
+        "min": 45,
+        "max": 103,
+        "currency": "INR"
+      },
+      "rarity": "Common",
+      "mintage": 36072642,
+      "composition": "Copper-plated Steel",
+      "diameter_mm": 21.25,
+      "weight_g": 3.92,
+      "thickness_mm": 1.67,
+      "edge": "Smooth",
+      "shape": "Round",
+      "designer": "Luc Luycx",
+      "krause_number": "KM#329",
+      "obverse": {
+        "description": "National side (varies).",
+        "lettering": ""
+      },
+      "reverse": {
+        "description": "Globe showing Europe.",
+        "lettering": "5 EURO CENT"
+      },
+      "images": {
+        "obverse": "014_obverse.webp",
+        "reverse": "014_reverse.webp"
+      }
+    },
+    {
+      "id": 15,
+      "day": 15,
+      "name": "Japan 100 yen",
+      "country": "Japan",
+      "country_code": "JPN",
+      "denomination": "100 yen",
+      "currency": "JPY",
+      "year": 2006,
+      "value_range": {
+        "min": 10,
+        "max": 15,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 190964559,
+      "composition": "Copper-Nickel",
+      "diameter_mm": 22.6,
+      "weight_g": 4.8,
+      "thickness_mm": 1.7,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "",
+      "krause_number": "KM#2059",
+      "obverse": {
+        "description": "Cherry blossoms.",
+        "lettering": "日本国 100"
+      },
+      "reverse": {
+        "description": "Value and year.",
+        "lettering": "100"
+      },
+      "images": {
+        "obverse": "015_obverse.webp",
+        "reverse": "015_reverse.webp"
+      }
+    },
+    {
+      "id": 16,
+      "day": 16,
+      "name": "Mexico 1 peso",
+      "country": "Mexico",
+      "country_code": "MEX",
+      "denomination": "1 peso",
+      "currency": "MXN",
+      "year": 2006,
+      "value_range": {
+        "min": 8,
+        "max": 14,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 221591120,
+      "composition": "Bimetal (Stainless Steel / Aluminium-Bronze)",
+      "diameter_mm": 21.0,
+      "weight_g": 3.95,
+      "thickness_mm": 1.55,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "",
+      "krause_number": "KM#3395",
+      "obverse": {
+        "description": "Mexican coat of arms (eagle).",
+        "lettering": "ESTADOS UNIDOS MEXICANOS"
+      },
+      "reverse": {
+        "description": "Value.",
+        "lettering": "1 PESO"
+      },
+      "images": {
+        "obverse": "016_obverse.webp",
+        "reverse": "016_reverse.webp"
+      }
+    },
+    {
+      "id": 17,
+      "day": 17,
+      "name": "South Africa 5 rand",
+      "country": "South Africa",
+      "country_code": "ZAF",
+      "denomination": "5 rand",
+      "currency": "ZAR",
+      "year": 2006,
+      "value_range": {
+        "min": 8,
+        "max": 15,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 113637351,
+      "composition": "Bimetal",
+      "diameter_mm": 26.0,
+      "weight_g": 9.5,
+      "thickness_mm": 2.5,
+      "edge": "Segmented",
+      "shape": "Round",
+      "designer": "",
+      "krause_number": "KM#143",
+      "obverse": {
+        "description": "Coat of arms.",
+        "lettering": "SOUTH AFRICA"
+      },
+      "reverse": {
+        "description": "Wildebeest.",
+        "lettering": "5 RAND"
+      },
+      "images": {
+        "obverse": "017_obverse.webp",
+        "reverse": "017_reverse.webp"
+      }
+    },
+    {
+      "id": 18,
+      "day": 18,
+      "name": "Switzerland 1 franc",
+      "country": "Switzerland",
+      "country_code": "CHE",
+      "denomination": "1 franc",
+      "currency": "CHF",
+      "year": 2006,
+      "value_range": {
+        "min": 144,
+        "max": 351,
+        "currency": "INR"
+      },
+      "rarity": "Common",
+      "mintage": 72460742,
+      "composition": "Copper-Nickel",
+      "diameter_mm": 23.2,
+      "weight_g": 4.4,
+      "thickness_mm": 1.55,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "",
+      "krause_number": "KM#254",
+      "obverse": {
+        "description": "Standing Helvetia.",
+        "lettering": "HELVETIA"
+      },
+      "reverse": {
+        "description": "Value in wreath.",
+        "lettering": "1 FR"
+      },
+      "images": {
+        "obverse": "018_obverse.webp",
+        "reverse": "018_reverse.webp"
+      }
+    },
+    {
+      "id": 19,
+      "day": 19,
+      "name": "United States 1 dime (Roosevelt)",
+      "country": "United States",
+      "country_code": "USA",
+      "denomination": "1 dime",
+      "currency": "USD",
+      "year": 2006,
+      "value_range": {
+        "min": 40,
+        "max": 75,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 120635942,
+      "composition": "Copper-Nickel clad",
+      "diameter_mm": 17.91,
+      "weight_g": 2.268,
+      "thickness_mm": 1.35,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "John R. Sinnock",
+      "krause_number": "KM#2496",
+      "obverse": {
+        "description": "Portrait of Franklin D. Roosevelt.",
+        "lettering": "LIBERTY IN GOD WE TRUST"
+      },
+      "reverse": {
+        "description": "Torch, olive branch and oak branch.",
+        "lettering": "UNITED STATES OF AMERICA E PLURIBUS UNUM ONE DIME"
+      },
+      "images": {
+        "obverse": "019_obverse.webp",
+        "reverse": "019_reverse.webp"
+      }
+    },
+    {
+      "id": 20,
+      "day": 20,
+      "name": "United States 1 quarter (Washington)",
+      "country": "United States",
+      "country_code": "USA",
+      "denomination": "1/4 dollar",
+      "currency": "USD",
+      "year": 2006,
+      "value_range": {
+        "min": 40,
+        "max": 99,
+        "currency": "INR"
+      },
+      "rarity": "Common",
+      "mintage": 78181009,
+      "composition": "Copper-Nickel clad",
+      "diameter_mm": 24.26,
+      "weight_g": 5.67,
+      "thickness_mm": 1.75,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "John Flanagan",
+      "krause_number": "KM#1974",
+      "obverse": {
+        "description": "Portrait of George Washington.",
+        "lettering": "LIBERTY IN GOD WE TRUST QUARTER DOLLAR"
+      },
+      "reverse": {
+        "description": "Varies by series.",
+        "lettering": "UNITED STATES OF AMERICA"
+      },
+      "images": {
+        "obverse": "020_obverse.webp",
+        "reverse": "020_reverse.webp"
+      }
+    },
+    {
+      "id": 21,
+      "day": 21,
+      "name": "United States 5 cents (Jefferson)",
+      "country": "United States",
+      "country_code": "USA",
+      "denomination": "5 cents",
+      "currency": "USD",
+      "year": 2006,
+      "value_range": {
+        "min": 40,
+        "max": 65,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 204935621,
+      "composition": "Copper-Nickel",
+      "diameter_mm": 21.21,
+      "weight_g": 5.0,
+      "thickness_mm": 1.95,
+      "edge": "Smooth",
+      "shape": "Round",
+      "designer": "Felix Schlag / Jamie Franki",
+      "krause_number": "KM#1668",
+      "obverse": {
+        "description": "Portrait of Thomas Jefferson.",
+        "lettering": "IN GOD WE TRUST LIBERTY"
+      },
+      "reverse": {
+        "description": "Monticello.",
+        "lettering": "MONTICELLO FIVE CENTS UNITED STATES OF AMERICA"
+      },
+      "images": {
+        "obverse": "021_obverse.webp",
+        "reverse": "021_reverse.webp"
+      }
+    },
+    {
+      "id": 22,
+      "day": 22,
+      "name": "United States half dollar (Kennedy)",
+      "country": "United States",
+      "country_code": "USA",
+      "denomination": "1/2 dollar",
+      "currency": "USD",
+      "year": 2006,
+      "value_range": {
+        "min": 40,
+        "max": 99,
+        "currency": "INR"
+      },
+      "rarity": "Common",
+      "mintage": 46185761,
+      "composition": "Copper-Nickel clad",
+      "diameter_mm": 30.61,
+      "weight_g": 11.34,
+      "thickness_mm": 2.15,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "Gilroy Roberts / Frank Gasparro",
+      "krause_number": "KM#375",
+      "obverse": {
+        "description": "Portrait of John F. Kennedy.",
+        "lettering": "LIBERTY IN GOD WE TRUST"
+      },
+      "reverse": {
+        "description": "Presidential Seal.",
+        "lettering": "UNITED STATES OF AMERICA HALF DOLLAR"
+      },
+      "images": {
+        "obverse": "022_obverse.webp",
+        "reverse": "022_reverse.webp"
+      }
+    },
+    {
+      "id": 23,
+      "day": 23,
+      "name": "Australia 1 dollar",
+      "country": "Australia",
+      "country_code": "AUS",
+      "denomination": "1 dollar",
+      "currency": "AUD",
+      "year": 2007,
+      "value_range": {
+        "min": 35,
+        "max": 93,
+        "currency": "INR"
+      },
+      "rarity": "Common",
+      "mintage": 94186596,
+      "composition": "Aluminium-Bronze",
+      "diameter_mm": 25.0,
+      "weight_g": 9.0,
+      "thickness_mm": 3.0,
+      "edge": "Interrupted milled",
+      "shape": "Round",
+      "designer": "Ian Rank-Broadley / Stuart Devlin",
+      "krause_number": "KM#2115",
+      "obverse": {
+        "description": "Portrait of Queen Elizabeth II.",
+        "lettering": "ELIZABETH II AUSTRALIA"
+      },
+      "reverse": {
+        "description": "Five kangaroos.",
+        "lettering": "1 DOLLAR"
+      },
+      "images": {
+        "obverse": "023_obverse.webp",
+        "reverse": "023_reverse.webp"
+      }
+    },
+    {
+      "id": 24,
+      "day": 24,
+      "name": "Australia 10 cents",
+      "country": "Australia",
+      "country_code": "AUS",
+      "denomination": "10 cents",
+      "currency": "AUD",
+      "year": 2007,
+      "value_range": {
+        "min": 35,
+        "max": 56,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 123266231,
+      "composition": "Copper-Nickel",
+      "diameter_mm": 23.6,
+      "weight_g": 5.65,
+      "thickness_mm": 2.0,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "Ian Rank-Broadley / Stuart Devlin",
+      "krause_number": "KM#2743",
+      "obverse": {
+        "description": "Portrait of Queen Elizabeth II.",
+        "lettering": "ELIZABETH II AUSTRALIA"
+      },
+      "reverse": {
+        "description": "Superb lyrebird.",
+        "lettering": "10 CENTS"
+      },
+      "images": {
+        "obverse": "024_obverse.webp",
+        "reverse": "024_reverse.webp"
+      }
+    },
+    {
+      "id": 25,
+      "day": 25,
+      "name": "Australia 20 cents",
+      "country": "Australia",
+      "country_code": "AUS",
+      "denomination": "20 cents",
+      "currency": "AUD",
+      "year": 2007,
+      "value_range": {
+        "min": 35,
+        "max": 66,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 250664526,
+      "composition": "Copper-Nickel",
+      "diameter_mm": 28.65,
+      "weight_g": 11.3,
+      "thickness_mm": 2.5,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "Ian Rank-Broadley / Stuart Devlin",
+      "krause_number": "KM#1931",
+      "obverse": {
+        "description": "Portrait of Queen Elizabeth II.",
+        "lettering": "ELIZABETH II AUSTRALIA"
+      },
+      "reverse": {
+        "description": "Platypus.",
+        "lettering": "20 CENTS"
+      },
+      "images": {
+        "obverse": "025_obverse.webp",
+        "reverse": "025_reverse.webp"
+      }
+    },
+    {
+      "id": 26,
+      "day": 26,
+      "name": "Australia 5 cents",
+      "country": "Australia",
+      "country_code": "AUS",
+      "denomination": "5 cents",
+      "currency": "AUD",
+      "year": 2007,
+      "value_range": {
+        "min": 35,
+        "max": 67,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 234430162,
+      "composition": "Copper-Nickel",
+      "diameter_mm": 19.41,
+      "weight_g": 2.83,
+      "thickness_mm": 1.3,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "Ian Rank-Broadley / Stuart Devlin",
+      "krause_number": "KM#679",
+      "obverse": {
+        "description": "Portrait of Queen Elizabeth II.",
+        "lettering": "ELIZABETH II AUSTRALIA"
+      },
+      "reverse": {
+        "description": "Echidna.",
+        "lettering": "5 CENTS"
+      },
+      "images": {
+        "obverse": "026_obverse.webp",
+        "reverse": "026_reverse.webp"
+      }
+    },
+    {
+      "id": 27,
+      "day": 27,
+      "name": "Australia 50 cents",
+      "country": "Australia",
+      "country_code": "AUS",
+      "denomination": "50 cents",
+      "currency": "AUD",
+      "year": 2007,
+      "value_range": {
+        "min": 35,
+        "max": 61,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 164537801,
+      "composition": "Copper-Nickel",
+      "diameter_mm": 31.65,
+      "weight_g": 15.55,
+      "thickness_mm": 2.0,
+      "edge": "Plain (12-sided)",
+      "shape": "Dodecagonal",
+      "designer": "Ian Rank-Broadley / Stuart Devlin",
+      "krause_number": "KM#2986",
+      "obverse": {
+        "description": "Portrait of Queen Elizabeth II.",
+        "lettering": "ELIZABETH II AUSTRALIA"
+      },
+      "reverse": {
+        "description": "Australian coat of arms.",
+        "lettering": "50 CENTS"
+      },
+      "images": {
+        "obverse": "027_obverse.webp",
+        "reverse": "027_reverse.webp"
+      }
+    },
+    {
+      "id": 28,
+      "day": 28,
+      "name": "Brazil 1 real",
+      "country": "Brazil",
+      "country_code": "BRA",
+      "denomination": "1 real",
+      "currency": "BRL",
+      "year": 2007,
+      "value_range": {
+        "min": 24,
+        "max": 43,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 124488545,
+      "composition": "Bimetal (Stainless Steel / Brass)",
+      "diameter_mm": 27.0,
+      "weight_g": 7.0,
+      "thickness_mm": 1.8,
+      "edge": "Reeded and smooth",
+      "shape": "Round",
+      "designer": "",
+      "krause_number": "KM#655",
+      "obverse": {
+        "description": "Effigy of the Republic.",
+        "lettering": "BRASIL"
+      },
+      "reverse": {
+        "description": "Value.",
+        "lettering": "1 REAL"
+      },
+      "images": {
+        "obverse": "028_obverse.webp",
+        "reverse": "028_reverse.webp"
+      }
+    },
+    {
+      "id": 29,
+      "day": 29,
+      "name": "Canada 1 dollar (Loonie)",
+      "country": "Canada",
+      "country_code": "CAN",
+      "denomination": "1 dollar",
+      "currency": "CAD",
+      "year": 2007,
+      "value_range": {
+        "min": 31,
+        "max": 59,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 100500577,
+      "composition": "Brass-plated Steel",
+      "diameter_mm": 26.5,
+      "weight_g": 6.27,
+      "thickness_mm": 1.95,
+      "edge": "Plain (11-sided)",
+      "shape": "Hendecagonal",
+      "designer": "Susanna Blunt / Robert-Ralph Carmichael",
+      "krause_number": "KM#2847",
+      "obverse": {
+        "description": "Portrait of Queen Elizabeth II.",
+        "lettering": "ELIZABETH II D G REGINA"
+      },
+      "reverse": {
+        "description": "Common loon.",
+        "lettering": "CANADA DOLLAR"
+      },
+      "images": {
+        "obverse": "029_obverse.webp",
+        "reverse": "029_reverse.webp"
+      }
+    },
+    {
+      "id": 30,
+      "day": 30,
+      "name": "Canada 10 cents",
+      "country": "Canada",
+      "country_code": "CAN",
+      "denomination": "10 cents",
+      "currency": "CAD",
+      "year": 2007,
+      "value_range": {
+        "min": 31,
+        "max": 226,
+        "currency": "INR"
+      },
+      "rarity": "Rare",
+      "mintage": 2809045,
+      "composition": "Nickel-plated Steel",
+      "diameter_mm": 18.03,
+      "weight_g": 1.75,
+      "thickness_mm": 1.22,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "Susanna Blunt / Emanuel Hahn",
+      "krause_number": "KM#1931",
+      "obverse": {
+        "description": "Portrait of Queen Elizabeth II.",
+        "lettering": "ELIZABETH II D G REGINA"
+      },
+      "reverse": {
+        "description": "Bluenose schooner.",
+        "lettering": "CANADA 10 CENTS"
+      },
+      "images": {
+        "obverse": "030_obverse.webp",
+        "reverse": "030_reverse.webp"
+      }
+    },
+    {
+      "id": 31,
+      "day": 31,
+      "name": "Canada 25 cents",
+      "country": "Canada",
+      "country_code": "CAN",
+      "denomination": "25 cents",
+      "currency": "CAD",
+      "year": 2007,
+      "value_range": {
+        "min": 31,
+        "max": 87,
+        "currency": "INR"
+      },
+      "rarity": "Common",
+      "mintage": 81693959,
+      "composition": "Nickel-plated Steel",
+      "diameter_mm": 23.88,
+      "weight_g": 4.4,
+      "thickness_mm": 1.58,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "Susanna Blunt",
+      "krause_number": "KM#2906",
+      "obverse": {
+        "description": "Portrait of Queen Elizabeth II.",
+        "lettering": "ELIZABETH II D G REGINA"
+      },
+      "reverse": {
+        "description": "Caribou.",
+        "lettering": "CANADA 25 CENTS"
+      },
+      "images": {
+        "obverse": "031_obverse.webp",
+        "reverse": "031_reverse.webp"
+      }
+    },
+    {
+      "id": 32,
+      "day": 32,
+      "name": "Canada 5 cents",
+      "country": "Canada",
+      "country_code": "CAN",
+      "denomination": "5 cents",
+      "currency": "CAD",
+      "year": 2007,
+      "value_range": {
+        "min": 31,
+        "max": 59,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 176135229,
+      "composition": "Nickel-plated Steel",
+      "diameter_mm": 21.2,
+      "weight_g": 3.95,
+      "thickness_mm": 1.76,
+      "edge": "Plain",
+      "shape": "Round",
+      "designer": "Susanna Blunt / George E. Kruger Gray",
+      "krause_number": "KM#1286",
+      "obverse": {
+        "description": "Portrait of Queen Elizabeth II.",
+        "lettering": "ELIZABETH II D G REGINA"
+      },
+      "reverse": {
+        "description": "Beaver on a rock.",
+        "lettering": "CANADA 5 CENTS"
+      },
+      "images": {
+        "obverse": "032_obverse.webp",
+        "reverse": "032_reverse.webp"
+      }
+    },
+    {
+      "id": 33,
+      "day": 33,
+      "name": "China 1 yuan",
+      "country": "China",
+      "country_code": "CHN",
+      "denomination": "1 yuan",
+      "currency": "CNY",
+      "year": 2007,
+      "value_range": {
+        "min": 19,
+        "max": 36,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 171360323,
+      "composition": "Nickel-plated Steel",
+      "diameter_mm": 25.0,
+      "weight_g": 6.1,
+      "thickness_mm": 1.85,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "",
+      "krause_number": "KM#2473",
+      "obverse": {
+        "description": "Chrysanthemum flower.",
+        "lettering": "中国人民银行"
+      },
+      "reverse": {
+        "description": "Value.",
+        "lettering": "1"
+      },
+      "images": {
+        "obverse": "033_obverse.webp",
+        "reverse": "033_reverse.webp"
+      }
+    },
+    {
+      "id": 34,
+      "day": 34,
+      "name": "Euro 1 cent",
+      "country": "Eurozone",
+      "country_code": "EUR",
+      "denomination": "1 euro cent",
+      "currency": "EUR",
+      "year": 2007,
+      "value_range": {
+        "min": 44,
+        "max": 82,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 133342253,
+      "composition": "Copper-plated Steel",
+      "diameter_mm": 16.25,
+      "weight_g": 2.3,
+      "thickness_mm": 1.67,
+      "edge": "Smooth",
+      "shape": "Round",
+      "designer": "Luc Luycx",
+      "krause_number": "KM#3039",
+      "obverse": {
+        "description": "National side (varies).",
+        "lettering": ""
+      },
+      "reverse": {
+        "description": "Globe showing Europe.",
+        "lettering": "1 EURO CENT"
+      },
+      "images": {
+        "obverse": "034_obverse.webp",
+        "reverse": "034_reverse.webp"
+      }
+    },
+    {
+      "id": 35,
+      "day": 35,
+      "name": "Euro 1 euro",
+      "country": "Eurozone",
+      "country_code": "EUR",
+      "denomination": "1 euro",
+      "currency": "EUR",
+      "year": 2007,
+      "value_range": {
+        "min": 44,
+        "max": 76,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 148821184,
+      "composition": "Bimetal (Copper-Nickel / Nickel-Brass)",
+      "diameter_mm": 23.25,
+      "weight_g": 7.5,
+      "thickness_mm": 2.33,
+      "edge": "Interrupted milled",
+      "shape": "Round",
+      "designer": "Luc Luycx",
+      "krause_number": "KM#1087",
+      "obverse": {
+        "description": "National side (varies).",
+        "lettering": ""
+      },
+      "reverse": {
+        "description": "Map of Europe.",
+        "lettering": "1 EURO"
+      },
+      "images": {
+        "obverse": "035_obverse.webp",
+        "reverse": "035_reverse.webp"
+      }
+    },
+    {
+      "id": 36,
+      "day": 36,
+      "name": "Euro 10 cent",
+      "country": "Eurozone",
+      "country_code": "EUR",
+      "denomination": "10 euro cent",
+      "currency": "EUR",
+      "year": 2007,
+      "value_range": {
+        "min": 44,
+        "max": 87,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 105007483,
+      "composition": "Nordic Gold",
+      "diameter_mm": 19.75,
+      "weight_g": 4.1,
+      "thickness_mm": 1.93,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "Luc Luycx",
+      "krause_number": "KM#2579",
+      "obverse": {
+        "description": "National side (varies).",
+        "lettering": ""
+      },
+      "reverse": {
+        "description": "Map of Europe.",
+        "lettering": "10 EURO CENT"
+      },
+      "images": {
+        "obverse": "036_obverse.webp",
+        "reverse": "036_reverse.webp"
+      }
+    },
+    {
+      "id": 37,
+      "day": 37,
+      "name": "Euro 2 cent",
+      "country": "Eurozone",
+      "country_code": "EUR",
+      "denomination": "2 euro cent",
+      "currency": "EUR",
+      "year": 2007,
+      "value_range": {
+        "min": 44,
+        "max": 106,
+        "currency": "INR"
+      },
+      "rarity": "Common",
+      "mintage": 36130964,
+      "composition": "Copper-plated Steel",
+      "diameter_mm": 18.75,
+      "weight_g": 3.06,
+      "thickness_mm": 1.67,
+      "edge": "Smooth with a groove",
+      "shape": "Round",
+      "designer": "Luc Luycx",
+      "krause_number": "KM#1002",
+      "obverse": {
+        "description": "National side (varies).",
+        "lettering": ""
+      },
+      "reverse": {
+        "description": "Globe showing Europe.",
+        "lettering": "2 EURO CENT"
+      },
+      "images": {
+        "obverse": "037_obverse.webp",
+        "reverse": "037_reverse.webp"
+      }
+    },
+    {
+      "id": 38,
+      "day": 38,
+      "name": "Euro 2 euro",
+      "country": "Eurozone",
+      "country_code": "EUR",
+      "denomination": "2 euro",
+      "currency": "EUR",
+      "year": 2007,
+      "value_range": {
+        "min": 44,
+        "max": 76,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 195843719,
+      "composition": "Bimetal (Nickel-Brass / Copper-Nickel)",
+      "diameter_mm": 25.75,
+      "weight_g": 8.5,
+      "thickness_mm": 2.2,
+      "edge": "Reeded with lettering",
+      "shape": "Round",
+      "designer": "Luc Luycx",
+      "krause_number": "KM#2576",
+      "obverse": {
+        "description": "National side (varies).",
+        "lettering": ""
+      },
+      "reverse": {
+        "description": "Map of Europe.",
+        "lettering": "2 EURO"
+      },
+      "images": {
+        "obverse": "038_obverse.webp",
+        "reverse": "038_reverse.webp"
+      }
+    },
+    {
+      "id": 39,
+      "day": 39,
+      "name": "Euro 20 cent",
+      "country": "Eurozone",
+      "country_code": "EUR",
+      "denomination": "20 euro cent",
+      "currency": "EUR",
+      "year": 2007,
+      "value_range": {
+        "min": 44,
+        "max": 79,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 244147973,
+      "composition": "Nordic Gold",
+      "diameter_mm": 22.25,
+      "weight_g": 5.74,
+      "thickness_mm": 2.14,
+      "edge": "Smooth with notches (Spanish flower)",
+      "shape": "Round",
+      "designer": "Luc Luycx",
+      "krause_number": "KM#3593",
+      "obverse": {
+        "description": "National side (varies).",
+        "lettering": ""
+      },
+      "reverse": {
+        "description": "Map of Europe.",
+        "lettering": "20 EURO CENT"
+      },
+      "images": {
+        "obverse": "039_obverse.webp",
+        "reverse": "039_reverse.webp"
+      }
+    },
+    {
+      "id": 40,
+      "day": 40,
+      "name": "Euro 5 cent",
+      "country": "Eurozone",
+      "country_code": "EUR",
+      "denomination": "5 euro cent",
+      "currency": "EUR",
+      "year": 2007,
+      "value_range": {
+        "min": 44,
+        "max": 98,
+        "currency": "INR"
+      },
+      "rarity": "Common",
+      "mintage": 91941255,
+      "composition": "Copper-plated Steel",
+      "diameter_mm": 21.25,
+      "weight_g": 3.92,
+      "thickness_mm": 1.67,
+      "edge": "Smooth",
+      "shape": "Round",
+      "designer": "Luc Luycx",
+      "krause_number": "KM#914",
+      "obverse": {
+        "description": "National side (varies).",
+        "lettering": ""
+      },
+      "reverse": {
+        "description": "Globe showing Europe.",
+        "lettering": "5 EURO CENT"
+      },
+      "images": {
+        "obverse": "040_obverse.webp",
+        "reverse": "040_reverse.webp"
+      }
+    },
+    {
+      "id": 41,
+      "day": 41,
+      "name": "Euro 50 cent",
+      "country": "Eurozone",
+      "country_code": "EUR",
+      "denomination": "50 euro cent",
+      "currency": "EUR",
+      "year": 2007,
+      "value_range": {
+        "min": 44,
+        "max": 77,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 175203411,
+      "composition": "Nordic Gold",
+      "diameter_mm": 24.25,
+      "weight_g": 7.8,
+      "thickness_mm": 2.38,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "Luc Luycx",
+      "krause_number": "KM#3584",
+      "obverse": {
+        "description": "National side (varies).",
+        "lettering": ""
+      },
+      "reverse": {
+        "description": "Map of Europe.",
+        "lettering": "50 EURO CENT"
+      },
+      "images": {
+        "obverse": "041_obverse.webp",
+        "reverse": "041_reverse.webp"
+      }
+    },
+    {
+      "id": 42,
+      "day": 42,
+      "name": "Japan 100 yen",
+      "country": "Japan",
+      "country_code": "JPN",
+      "denomination": "100 yen",
+      "currency": "JPY",
+      "year": 2007,
+      "value_range": {
+        "min": 9,
+        "max": 18,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 173899714,
+      "composition": "Copper-Nickel",
+      "diameter_mm": 22.6,
+      "weight_g": 4.8,
+      "thickness_mm": 1.7,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "",
+      "krause_number": "KM#2116",
+      "obverse": {
+        "description": "Cherry blossoms.",
+        "lettering": "日本国 100"
+      },
+      "reverse": {
+        "description": "Value and year.",
+        "lettering": "100"
+      },
+      "images": {
+        "obverse": "042_obverse.webp",
+        "reverse": "042_reverse.webp"
+      }
+    },
+    {
+      "id": 43,
+      "day": 43,
+      "name": "Mexico 1 peso",
+      "country": "Mexico",
+      "country_code": "MEX",
+      "denomination": "1 peso",
+      "currency": "MXN",
+      "year": 2007,
+      "value_range": {
+        "min": 8,
+        "max": 13,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 116832956,
+      "composition": "Bimetal (Stainless Steel / Aluminium-Bronze)",
+      "diameter_mm": 21.0,
+      "weight_g": 3.95,
+      "thickness_mm": 1.55,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "",
+      "krause_number": "KM#2930",
+      "obverse": {
+        "description": "Mexican coat of arms (eagle).",
+        "lettering": "ESTADOS UNIDOS MEXICANOS"
+      },
+      "reverse": {
+        "description": "Value.",
+        "lettering": "1 PESO"
+      },
+      "images": {
+        "obverse": "043_obverse.webp",
+        "reverse": "043_reverse.webp"
+      }
+    },
+    {
+      "id": 44,
+      "day": 44,
+      "name": "South Africa 5 rand",
+      "country": "South Africa",
+      "country_code": "ZAF",
+      "denomination": "5 rand",
+      "currency": "ZAR",
+      "year": 2007,
+      "value_range": {
+        "min": 8,
+        "max": 14,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 133002640,
+      "composition": "Bimetal",
+      "diameter_mm": 26.0,
+      "weight_g": 9.5,
+      "thickness_mm": 2.5,
+      "edge": "Segmented",
+      "shape": "Round",
+      "designer": "",
+      "krause_number": "KM#934",
+      "obverse": {
+        "description": "Coat of arms.",
+        "lettering": "SOUTH AFRICA"
+      },
+      "reverse": {
+        "description": "Wildebeest.",
+        "lettering": "5 RAND"
+      },
+      "images": {
+        "obverse": "044_obverse.webp",
+        "reverse": "044_reverse.webp"
+      }
+    },
+    {
+      "id": 45,
+      "day": 45,
+      "name": "Switzerland 1 franc",
+      "country": "Switzerland",
+      "country_code": "CHE",
+      "denomination": "1 franc",
+      "currency": "CHF",
+      "year": 2007,
+      "value_range": {
+        "min": 141,
+        "max": 566,
+        "currency": "INR"
+      },
+      "rarity": "Uncommon",
+      "mintage": 18495152,
+      "composition": "Copper-Nickel",
+      "diameter_mm": 23.2,
+      "weight_g": 4.4,
+      "thickness_mm": 1.55,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "",
+      "krause_number": "KM#2580",
+      "obverse": {
+        "description": "Standing Helvetia.",
+        "lettering": "HELVETIA"
+      },
+      "reverse": {
+        "description": "Value in wreath.",
+        "lettering": "1 FR"
+      },
+      "images": {
+        "obverse": "045_obverse.webp",
+        "reverse": "045_reverse.webp"
+      }
+    },
+    {
+      "id": 46,
+      "day": 46,
+      "name": "United States 1 dime (Roosevelt)",
+      "country": "United States",
+      "country_code": "USA",
+      "denomination": "1 dime",
+      "currency": "USD",
+      "year": 2007,
+      "value_range": {
+        "min": 39,
+        "max": 69,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 258109270,
+      "composition": "Copper-Nickel clad",
+      "diameter_mm": 17.91,
+      "weight_g": 2.268,
+      "thickness_mm": 1.35,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "John R. Sinnock",
+      "krause_number": "KM#3235",
+      "obverse": {
+        "description": "Portrait of Franklin D. Roosevelt.",
+        "lettering": "LIBERTY IN GOD WE TRUST"
+      },
+      "reverse": {
+        "description": "Torch, olive branch and oak branch.",
+        "lettering": "UNITED STATES OF AMERICA E PLURIBUS UNUM ONE DIME"
+      },
+      "images": {
+        "obverse": "046_obverse.webp",
+        "reverse": "046_reverse.webp"
+      }
+    },
+    {
+      "id": 47,
+      "day": 47,
+      "name": "United States 1 quarter (Washington)",
+      "country": "United States",
+      "country_code": "USA",
+      "denomination": "1/4 dollar",
+      "currency": "USD",
+      "year": 2007,
+      "value_range": {
+        "min": 39,
+        "max": 72,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 203442410,
+      "composition": "Copper-Nickel clad",
+      "diameter_mm": 24.26,
+      "weight_g": 5.67,
+      "thickness_mm": 1.75,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "John Flanagan",
+      "krause_number": "KM#127",
+      "obverse": {
+        "description": "Portrait of George Washington.",
+        "lettering": "LIBERTY IN GOD WE TRUST QUARTER DOLLAR"
+      },
+      "reverse": {
+        "description": "Varies by series.",
+        "lettering": "UNITED STATES OF AMERICA"
+      },
+      "images": {
+        "obverse": "047_obverse.webp",
+        "reverse": "047_reverse.webp"
+      }
+    },
+    {
+      "id": 48,
+      "day": 48,
+      "name": "United States 5 cents (Jefferson)",
+      "country": "United States",
+      "country_code": "USA",
+      "denomination": "5 cents",
+      "currency": "USD",
+      "year": 2007,
+      "value_range": {
+        "min": 39,
+        "max": 107,
+        "currency": "INR"
+      },
+      "rarity": "Common",
+      "mintage": 68191063,
+      "composition": "Copper-Nickel",
+      "diameter_mm": 21.21,
+      "weight_g": 5.0,
+      "thickness_mm": 1.95,
+      "edge": "Smooth",
+      "shape": "Round",
+      "designer": "Felix Schlag / Jamie Franki",
+      "krause_number": "KM#3666",
+      "obverse": {
+        "description": "Portrait of Thomas Jefferson.",
+        "lettering": "IN GOD WE TRUST LIBERTY"
+      },
+      "reverse": {
+        "description": "Monticello.",
+        "lettering": "MONTICELLO FIVE CENTS UNITED STATES OF AMERICA"
+      },
+      "images": {
+        "obverse": "048_obverse.webp",
+        "reverse": "048_reverse.webp"
+      }
+    },
+    {
+      "id": 49,
+      "day": 49,
+      "name": "United States half dollar (Kennedy)",
+      "country": "United States",
+      "country_code": "USA",
+      "denomination": "1/2 dollar",
+      "currency": "USD",
+      "year": 2007,
+      "value_range": {
+        "min": 39,
+        "max": 314,
+        "currency": "INR"
+      },
+      "rarity": "Rare",
+      "mintage": 4762340,
+      "composition": "Copper-Nickel clad",
+      "diameter_mm": 30.61,
+      "weight_g": 11.34,
+      "thickness_mm": 2.15,
+      "edge": "Reeded",
+      "shape": "Round",
+      "designer": "Gilroy Roberts / Frank Gasparro",
+      "krause_number": "KM#2156",
+      "obverse": {
+        "description": "Portrait of John F. Kennedy.",
+        "lettering": "LIBERTY IN GOD WE TRUST"
+      },
+      "reverse": {
+        "description": "Presidential Seal.",
+        "lettering": "UNITED STATES OF AMERICA HALF DOLLAR"
+      },
+      "images": {
+        "obverse": "049_obverse.webp",
+        "reverse": "049_reverse.webp"
+      }
+    },
+    {
+      "id": 50,
+      "day": 50,
+      "name": "Australia 1 dollar",
+      "country": "Australia",
+      "country_code": "AUS",
+      "denomination": "1 dollar",
+      "currency": "AUD",
+      "year": 2008,
+      "value_range": {
+        "min": 34,
+        "max": 58,
+        "currency": "INR"
+      },
+      "rarity": "Very Common",
+      "mintage": 125347570,
+      "composition": "Aluminium-Bronze",
+      "diameter_mm": 25.0,
+      "weight_g": 9.0,
+      "thickness_mm": 3.0,
+      "edge": "Interrupted milled",
+      "shape": "Round",
+      "designer": "Ian Rank-Broadley / Stuart Devlin",
+      "krause_number": "KM#2714",
+      "obverse": {
+        "description": "Portrait of Queen Elizabeth II.",
+        "lettering": "ELIZABETH II AUSTRALIA"
+      },
+      "reverse": {
+        "description": "Five kangaroos.",
+        "lettering": "1 DOLLAR"
+      },
+      "images": {
+        "obverse": "050_obverse.webp",
+        "reverse": "050_reverse.webp"
+      }
+    }
+  ],
+  "images_note": "Image names are relative to <base>/coins_50/."
+}
